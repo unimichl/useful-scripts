@@ -4,7 +4,12 @@
 
 ## **Rule 1:** Use GitHub to Track Your Projects
 + Tony Rossini: “commit early, commit often, and commit in a repository from which we can easily roll-back your mistakes,”
-+ Recommended Reading: [*A quick Introduction to Version Control with Git and GitHub*]( https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pcbi.1004947/1/pcbi.1004947.g001.PNG_I?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210312%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210312T221517Z&X-Goog-Expires=3600&X-Goog-SignedHeaders=host&X-Goog-Signature=c8b0cf21d3a5e2fb6a8910b1997ff0684992f35d86b5222327e6aef72c8534b4ec58aa44364d1639235414302f7fd7b0af3d760bd379440ffb1c279254a71560ece462319b2030c9ff84460e59a2c5cbd1a1e1ee1d2ffc5c50006b3ef4a4e5c5c068d6c6eefe754007276f6775b9e74a1da41ac4a40bfb3bc8b48abfc4e4e66e1bcf2745d2ea71be72252fef793cf34d099a9382147067418ce180ce0e941354456944e5f33588c4957c4cae375780fdc056f25e6840a7a01caa262d1b1ca4c41317cc58d8ee8fc5d20d0832ec7bb4c2ab6beba24ef86120c2145c15a73b5f03036b28547f067986e8ba5408c0f75ff9163f5c774752a0832b0261ebde2391ba)
++ Recommended Reading: [*A quick Introduction to Version Control with Git and GitHub*]( https://doi.org/10.1371/journal.pcbi.1004668)
+<br /> 
+<br />
+
+![alt text](https://journals.plos.org/ploscompbiol/article/figure/image?download&size=original&id=info:doi/10.1371/journal.pcbi.1004947.g001)
+**Figure 1.** The structure of a GitHub-based project illustrating project structure and interactions with the community.
 **Figure 1** The structure of a GitHub-based project illustrating project structure and interactions with the community.
 
 ## **Rule 2:** GitHub for Single Users, Teams, and Organizations

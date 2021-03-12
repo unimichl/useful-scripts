@@ -32,9 +32,11 @@
 + Reports and badges which can be included on your Github project page are created by the platforms 
 
 ## **Rule 7:** Use GitHub to Openly and Collaboratively Discuss, Address, and Close Issues
-+ A great way to keep track of bugs, tasks, feature requests, and enhancements
++ **GitHub *issues*:** A great way to keep track of bugs, tasks, feature requests, and enhancements
 + Raising an issue only requires a title and, preferably, at least a short description
-+ Define Milestones
++ Issues have very clear formatting and provide space for optional comments, which allow anyone with a Github account to provide feedback.
++ Additional elements of issues are (i) color-coded labels that help to categorize and filter issues, (ii) milestones, and (iii) one assignee responsible for working on the issue.
++ They help developers to filter and prioritize tasks and turn an issue tracker into a planning tool for their project.
 
 ## **Rule 8:** Make Your Code Easily Citable, and Cite Source Code!
 + **README, CITATION and LICENSE** files are crucial
@@ -47,8 +49,7 @@
 + GitHub *pages* - simple websites freely hosted by GitHub
 + Reddit
 + Gitter (GitHub based chat tool)
-+ Gists are a way to share code snippets etc – public and secret
-
++ Gists are a way to share code snippets, single files etc. – publicly and secretly
 
 ## **Rule 10:** Use GitHub to Be Social: Follow and Watch
 + Follow other GitHub users

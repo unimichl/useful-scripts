@@ -23,13 +23,13 @@
 + Version numbering shouldfollow “semantic versioning” practice, with the format X.Y.Z., with X being the major, Y the minor, and Z the patch version of the release, including possible meta information
 
 ## **Rule 5:** Let GitHub Do Some Tasks for You: Integrate
-+ Hooks = automatically executed scripts for making sure every commit actually works
++ Continuous integration provides a way to automatically and systematically run a series of tests to check integrity and performance of code, a task that can be automated through GitHub
++ GitHub offers a set of ***hooks*** (automatically executed scripts) that are run after each push to a repository
 + This way each version is automatically checked for errors
 
 ## **Rule 6:** Let GitHub Do More Tasks for You: Automate
-+ Check that most of your code is covered by hooks eg. [Codecov](https://about.codecov.io/)
++ GitHub ***hooks*** eg. [Codecov](https://about.codecov.io/) can be used to report how much of the code is ececuted
 + Document most or all of your commits for better traceability, use tools for automated documentation generation like [SPHINX](https://www.sphinx-doc.org/en/master/)
-+ Reports and badges which can be included on your Github project page are created by the platforms 
 
 ## **Rule 7:** Use GitHub to Openly and Collaboratively Discuss, Address, and Close Issues
 + **GitHub *issues*:** A great way to keep track of bugs, tasks, feature requests, and enhancements
@@ -46,10 +46,10 @@
 
 ## **Rule 9:** Promote and Discuss Your Projects: Web Page and More
 + Associated paper (traditionally to promote a software)
-+ GitHub *pages* - simple websites freely hosted by GitHub
++ **GitHub *pages*** - simple websites freely hosted by GitHub
 + Reddit
-+ Gitter (GitHub based chat tool)
-+ Gists are a way to share code snippets, single files etc. – publicly and secretly
++ **Gitter** (GitHub based chat tool)
++ **Gists** are a way to share code snippets, single files etc. – publicly and secretly
 
 ## **Rule 10:** Use GitHub to Be Social: Follow and Watch
 + Follow other GitHub users

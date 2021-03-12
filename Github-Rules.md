@@ -8,9 +8,9 @@
 <br /> 
 <br />
 
-![alt text](https://journals.plos.org/ploscompbiol/article/figure/image?download&size=original&id=info:doi/10.1371/journal.pcbi.1004947.g001)
+![alt text](https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pcbi.1004947/1/pcbi.1004947.g001.PNG_M?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210312%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210312T222922Z&X-Goog-Expires=3600&X-Goog-SignedHeaders=host&X-Goog-Signature=2c653e747389e58d10bd12d8e37851c69f8f533d4dafb070665550d8225eebab458c9922d82ad2b5f19a0cdb9552c72feefefdd382b7453e2d456c81cbb078ec7a4c2ef2f96bee9163423c4121a42674fe0f99e496413298a36148923f13df050158db74461c499f23216d047429c39f9a4bc192eac3ee7132505eeee547189d5e032028f5a3202fad57c3e2c056f75f76aaeead28011d57753ecc4f6cd4e2886d0c4d140d100c961cc37d6d120bbb225fedbb99c60dbd02f0f082464b30c17784baa97ba5f133fa1a7871609e3ffa1f8b2fc49b3a4a1ddbe9aef2f52b8cc8e84f0bd8d9ee3ccacd8b0b433b7a484f833b7127d7f0945870b0ecddd477a21e81)
 **Figure 1.** The structure of a GitHub-based project illustrating project structure and interactions with the community.
-**Figure 1** The structure of a GitHub-based project illustrating project structure and interactions with the community.
+
 
 ## **Rule 2:** GitHub for Single Users, Teams, and Organizations
 + Public projects on GitHub are visible to everyone, but write permission needs to be granted explicitly

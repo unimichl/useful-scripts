@@ -6,6 +6,11 @@
 + Tony Rossini: “commit early, commit often, and commit in a repository from which we can easily roll-back your mistakes,”
 
 ## **Rule 2:** GitHub for Single Users, Teams, and Organizations
++ Public projects on GitHub are visible to everyone, but write permission needs to be granted explicitly
++ As a repository owner, you can grant this right to other GitHub users
++ Repositories can also be created and managed as part of teams and organizations
+
+
 ## **Rule 3:** Developing and Collaborating on New Features: Branching and Forking
 ## **Rule 4:** Naming Branches and Commits: Tags and Semantic Versions
 ## **Rule 5:** Let GitHub Do Some Tasks for You: Integrate

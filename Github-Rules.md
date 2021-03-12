@@ -5,7 +5,7 @@
 ## **Rule 1:** Use GitHub to Track Your Projects
 + Tony Rossini: “commit early, commit often, and commit in a repository from which we can easily roll-back your mistakes,”
 + Recommended Reading: [*A quick Introduction to Version Control with Git and GitHub*]( https://doi.org/10.1371/journal.pcbi.1004668)
-![alt text](https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pcbi.1004947/1/pcbi.1004947.g001.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210312%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210312T192047Z&X-Goog-Expires=3600&X-Goog-SignedHeaders=host&X-Goog-Signature=b1703cbfcbfac4cb40ff9fd056c172c58119b0485d350f0a5e615b92420807cd9f3dffdbd3c49c105344bae12b90cdb80e104fcea6cb00f4c1f3ca0131ddaadb565bcb9efe114d3800b754f50bd64a1938ac5665c426b270ad25bc29cc56f5ca342ad7be1cd8699b5db35da224584f1360c6ea6e8a2651af84e002866f9fe141f58301f666c0456fa38a7dc2dfc08813fbb5d9d91a05912e823d08d97c3d28464430cbdc49652eaf92a77edff67fe8653b41433015d39d8fde9ac0021910221f53d7d7dcb03e08c402ee0adf93efb4ed520e77d91a5ed7c521b1f13f6c0ed129f5d531d798c803e81e67f7080f30a84ec905ca690be234dbbcd7f8813cd109c8)
+![alt text](https://doi.org/10.1371/journal.pcbi.1004947.g001)
 
 ## **Rule 2:** GitHub for Single Users, Teams, and Organizations
 + Public projects on GitHub are visible to everyone, but write permission needs to be granted explicitly

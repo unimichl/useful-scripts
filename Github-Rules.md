@@ -14,17 +14,17 @@
 + Repositories can also be created and managed as part of teams and organizations
 
 ## **Rule 3:** Developing and Collaborating on New Features: Branching and Forking
-+ Forking a repository allows users to freely experiment with changes without affecting the original project and forms the basis of social coding
-+ Forking a repository and providing pull requests constitutes a simple method for collaboration inside loosely defined teams
-+ Many contributors can work on the same repository at the same time without running into edit conflicts -> Git branches
-+ BUT there is a risk of applying incompatible changes in different branches/forks; these are said to become *out of sync*
++ **Forking** a repository allows users to freely experiment with changes without affecting the original project and forms the basis of social coding
++ **Forking** a repository and providing **pull requests** constitutes a simple method for collaboration inside loosely defined teams
++ Many contributors can work on the same repository at the same time without running into edit conflicts -> Git **branches**
++ **But** there is a risk of applying incompatible changes in different branches/forks; these are said to become *out of sync*
 
 ## **Rule 4:** Naming Branches and Commits: Tags and Semantic Versions
-+ Version numbering shouldfollow “semantic versioning” practice, with the format X.Y.Z., with X being the major, Y the minor, and Z the patch version of the release, including possible meta information
++ Version numbering should follow “semantic versioning” practice, with the format **X.Y.Z.**, with **X** being the major, **Y** the minor, and **Z** the patch version of the release, including possible **meta information**
 
 ## **Rule 5:** Let GitHub Do Some Tasks for You: Integrate
 + Continuous integration provides a way to automatically and systematically run a series of tests to check integrity and performance of code, a task that can be automated through GitHub
-+ GitHub offers a set of ***hooks*** (automatically executed scripts) that are run after each push to a repository
++ GitHub offers a set of ***hooks*** (automatically executed scripts) that are run after **each push** to a repository
 + This way each version is automatically checked for errors
 
 ## **Rule 6:** Let GitHub Do More Tasks for You: Automate

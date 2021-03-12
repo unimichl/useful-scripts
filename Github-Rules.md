@@ -3,6 +3,8 @@
 [DOI:https://doi.org/10.1371/journal.pcbi.1004947](https://doi.org/10.1371/journal.pcbi.1004947)
 
 ## **Rule 1:** Use GitHub to Track Your Projects
++Tony Rossini: “commit early, commit often, and commit in a repository from which we can easily roll-back your mistakes,”
+
 ## **Rule 2:** GitHub for Single Users, Teams, and Organizations
 ## **Rule 3:** Developing and Collaborating on New Features: Branching and Forking
 ## **Rule 4:** Naming Branches and Commits: Tags and Semantic Versions

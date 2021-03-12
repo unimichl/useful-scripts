@@ -27,8 +27,8 @@
 + This way each version is automatically checked for errors
 
 ## **Rule 6:** Let GitHub Do More Tasks for You: Automate
-+ Check that most of your code is covered by hooks eg. codecov.io
-+ Document most or all of your commits for better traceability, use tools to ease this task eg. Sphinx
++ Check that most of your code is covered by hooks eg. [Codecov](https://about.codecov.io/)
++ Document most or all of your commits for better traceability, use tools for automated documentation generation like [SPHINX](https://www.sphinx-doc.org/en/master/)
 + Reports and badges which can be included on your Github project page are created by the platforms 
 
 ## **Rule 7:** Use GitHub to Openly and Collaboratively Discuss, Address, and Close Issues
